@@ -20,16 +20,21 @@
         display: none;
     }
   }
+  @import url('https://fonts.googleapis.com/css2?family=Sono&display:Sarabun:wght@100&family=swap');
+body{
+    font-family: 'Sono', monospace ,'Sarabun',sans-serif;
+}
 .container {
     max-width: 600px;
     width: 100%;
     margin: 0 auto;
     margin-top: 15px;
-    font-family : Georgia, serif;
+    font-family: 'Sono', monospace ,'Sarabun',sans-serif;
 }
 
 #bio {
     text-align: center;
+    font-family: 'Sono', monospace ,'Sarabun',sans-serif;
 }
 
 hr {
@@ -47,7 +52,7 @@ img#logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.4)
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.4);
 }
 
 h1.name {
@@ -56,6 +61,7 @@ h1.name {
     font-weight: bold;
     text-align: center;
     margin-top: 20px;
+    font-family: 'Sono', monospace ,'Sarabun',sans-serif;
 }
 
 span.slogan {
@@ -64,6 +70,7 @@ span.slogan {
     font-size: 14px;
     color:#616161;
     margin-bottom: 30px; 
+    font-family: 'Sono', monospace ,'Sarabun',sans-serif;
 }
 
 .social-img {
@@ -91,10 +98,10 @@ h5 {
     margin-top: 50px;
     margin-bottom: 0px;
     text-transform: uppercase;
-    font-weight: bold;
 }
 
 .cer {
+    margin-top: 30px;
     margin-bottom: 5px;
     box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.4)
 }
@@ -103,12 +110,14 @@ h5 {
     text-align: center;
     padding: 20px 0;
     color: rgba(51, 51, 51, 0.5);
+    font-family: 'Sono', monospace ,'Sarabun',sans-serif;
 }
 
 p.description {
     text-align: center;
     color: rgba(102, 101, 101, 0.76);
     margin-bottom: 20px;
+    font-family: 'Sono', monospace ,'Sarabun',sans-serif;
 }
 
 p#Contact {
@@ -117,12 +126,14 @@ p#Contact {
     color: #4e4e4e;
     margin-bottom: 0.5px;
     margin-top: 1;
+    font-family: 'Sono', monospace ,'Sarabun',sans-serif;
 }
 
 p#Contact a {
     color: #4e4e4e;
     font-size: 1rem;
     margin-bottom: 0.5%;
+    font-family: 'Sono', monospace ,'Sarabun',sans-serif;
 }
 
 nav {
@@ -154,6 +165,7 @@ nav {
 .menu a {
     color: #fff;
     font-size: 1rem;
+    font-family: 'Sono', monospace ,'Sarabun',sans-serif;
 }
 
 .menu a:hover {
@@ -163,6 +175,7 @@ nav {
 .nav-logo p {
   font-size: 2rem;
   margin-left: 1rem;
+  font-family: 'Sono', monospace ,'Sarabun',sans-serif;
 }
 
 .nav-logo p {
